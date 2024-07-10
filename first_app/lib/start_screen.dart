@@ -22,7 +22,7 @@ class StartScreen extends StatelessWidget {
         ),
         Text(
           style: GoogleFonts.josefinSans(
-            color: Colors.white,
+            color: const Color.fromARGB(255, 252, 231, 255),
             fontWeight: FontWeight.bold,
             fontSize: 28,
           ),
